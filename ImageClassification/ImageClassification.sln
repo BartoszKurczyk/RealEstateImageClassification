@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassificationML.Model", "ImageClassificationML.Model\ImageClassificationML.Model.csproj", "{72029005-2AE7-42C6-846B-9504EF5CDC1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageClassificationML.ConsoleApp", "ImageClassificationML.ConsoleApp\ImageClassificationML.ConsoleApp.csproj", "{599303FE-3FA5-4F1A-B55B-2D44FC491E70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnnouncementsModel", "AnnouncementsModel\AnnouncementsModel.csproj", "{02CC7982-0FC3-41BF-B03A-BDDDE606D928}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonParserTool", "JsonParserTool\JsonParserTool.csproj", "{978CA441-B672-45FB-8AC8-C6FBB0E91A7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonParser", "JsonParser\JsonParser.csproj", "{E8BDEA49-D79C-4624-A45B-B5A8EFC9BEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSimilarityTool", "StringSimilarityTool\StringSimilarityTool.csproj", "{3DDF6E1D-7291-4E03-8935-CB053A1217BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72029005-2AE7-42C6-846B-9504EF5CDC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72029005-2AE7-42C6-846B-9504EF5CDC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72029005-2AE7-42C6-846B-9504EF5CDC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72029005-2AE7-42C6-846B-9504EF5CDC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599303FE-3FA5-4F1A-B55B-2D44FC491E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599303FE-3FA5-4F1A-B55B-2D44FC491E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599303FE-3FA5-4F1A-B55B-2D44FC491E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599303FE-3FA5-4F1A-B55B-2D44FC491E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CC7982-0FC3-41BF-B03A-BDDDE606D928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CC7982-0FC3-41BF-B03A-BDDDE606D928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CC7982-0FC3-41BF-B03A-BDDDE606D928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CC7982-0FC3-41BF-B03A-BDDDE606D928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978CA441-B672-45FB-8AC8-C6FBB0E91A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978CA441-B672-45FB-8AC8-C6FBB0E91A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978CA441-B672-45FB-8AC8-C6FBB0E91A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978CA441-B672-45FB-8AC8-C6FBB0E91A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BDEA49-D79C-4624-A45B-B5A8EFC9BEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BDEA49-D79C-4624-A45B-B5A8EFC9BEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BDEA49-D79C-4624-A45B-B5A8EFC9BEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BDEA49-D79C-4624-A45B-B5A8EFC9BEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDF6E1D-7291-4E03-8935-CB053A1217BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDF6E1D-7291-4E03-8935-CB053A1217BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDF6E1D-7291-4E03-8935-CB053A1217BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDF6E1D-7291-4E03-8935-CB053A1217BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160B200D-D2D3-42C2-8DA5-E6161D684C6D}
+	EndGlobalSection
+EndGlobal

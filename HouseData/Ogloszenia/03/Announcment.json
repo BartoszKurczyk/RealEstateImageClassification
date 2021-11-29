@@ -1,0 +1,80 @@
+{
+  "Description": "Dwupokojowe mieszkanie z ogródkiem w dobrym standardzie na wynajem. Mieszkanie zlokalizowane w budynku przy al. Wojska Polskiego 187. W pobliżu znajdziemy: - 120 m przystanek tramwajowy linii nr 1, 3, 4, 5, 7, 8, 9 - dotrzemy stąd zarówno do galerii handlowych, urzędów, uczelni jak i miejsc do wypoczynku np. jezioro Głębokie - 350 m stacja paliw oraz market Netto - 600 m ogród botaniczny, ogród różany, park Kasprowicza - 600 m przystanek autobusowy linii nr 53, 60- 800 m uczelnia WSB oraz wydział kształtowania Środowiska i Rolnictwa - 1000 m szkoła podstawowa - 1200 m szpital przy ul. Unii Lubelskiej Nowe budownictwo. Teren ogrodzony i monitorowany. Mieszkanie o powierzchni 35 mkw składa się z krótkiego korytarza przechodzącego w salon z wydzielonym aneksem kuchennym, sypialni, pięknej łazienki oraz ogródka. Wszystko utrzymane w nowoczesnym stylu i wykończone z najwyższą starannością. Ze słonecznego salonu jak i z sypialni jest wyjście na ogródek. Ogrzewanie i woda z sieci miejskiej. W oknach rolety antywłamaniowe. Czynsz najmu 2000 zł Czynsz w wysokości 479,8 zł. W czynszu zawarte są zaliczki na zimną wode oraz na ogrzewanie. Rozliczenie co pół roku. Prąd wg zużycia. Kaucja w wysokości jednego czynszu. Ubezpieczenie 40 zł lub okazanie własnej polisy. Oferta wyłącznie w naszym biurze. W razie chęci obejrzenia mieszkania zapraszam do kontaktu pod numerem telefonu 661 658 575",
+  "District": "Centrum",
+  "Area": 35.0,
+  "NumberOfRooms": 2,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\02.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\03.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\04.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\05.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\06.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\07.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\09.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\10.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\11.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\12.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\13.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\14.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\15.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\16.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\17.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\03\\18.png",
+      "RoomType": "Unknown"
+    }
+  ]
+}

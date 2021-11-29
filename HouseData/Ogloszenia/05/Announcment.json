@@ -1,0 +1,32 @@
+{
+  "Description": "Do wynajęcia mieszkanie 1 pokojowe o powierzchni c.a. 30,00 m2 w Centrum miasta przy ulicy Piłsudskiego tuż przy Placu Grunwaldzkim. Doskonała lokalizacja w sercu Szczecina. Wszędzie blisko: CH Galaxy – 600 m, CH Kaskada – 600 m Jasne Błonie – 800 m ZUT – 1,5 km, Akademia Morska – 1,5 km 100 m do przystanku tramwajowego z którego bez problemu można dotrzeć w każdy rejon miasta. Mieszkanie świeżo po remoncie, składa się z pokoju z aneksem kuchennym oraz przestronnej łazienki z WC. W pełni umeblowane. Na wyposażeniu znajduje się lodówka z zamrażalnikiem, płyta elektryczna, piekarnik, pralka. Całkowity koszt najmu to 1700,00 zł + prąd i woda wg zużycia. W cenie jest ogrzewanie oraz szybki internet, tv kablowa. Kaucja 2000,00 zł.",
+  "District": "Centrum",
+  "Area": 30.0,
+  "NumberOfRooms": 1,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\01.png",
+      "RoomType": "Kitchen"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\02.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\03.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\04.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\05.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\05\\06.png",
+      "RoomType": "Badroom"
+    }
+  ]
+}

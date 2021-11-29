@@ -1,0 +1,52 @@
+{
+  "Description": "Na wynajem 2 pokojowe mieszkanie położone w spokojnej dzielnicy Szczecinie. Na 42m2 składa się: - pokój z balkonem francuskim - pokoi II - kuchnia oddzielna z oknem- łazienka - WC - przedpokój z szafą Czynsz administracyjny wynosi ok.550zł, w tym ciepła i zimna woda, ogrzewanie, ścieki itd. Prąd i gaz są dodatkowe płatne wg liczników. W pobliżu przystanek autobusowy, w pobliżu ryneczek, sklepy, apteki, przedszkole, żłobek, uczelnia, Netto Arena. Zapraszam na prezentację. Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()",
+  "District": "Centrum",
+  "Area": 42.0,
+  "NumberOfRooms": 2,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\02.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\03.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\04.png",
+      "RoomType": "Badroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\05.png",
+      "RoomType": "Badroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\06.png",
+      "RoomType": "Bathroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\07.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\09.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\10.png",
+      "RoomType": "Hall"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\06\\11.png",
+      "RoomType": "Hall"
+    }
+  ]
+}

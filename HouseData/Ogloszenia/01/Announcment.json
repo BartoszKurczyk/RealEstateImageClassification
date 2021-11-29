@@ -1,0 +1,80 @@
+{
+  "Description": "Na wynajem nowo wykończone 2 pokojowe mieszkanie o powierzchni 46,9m2 znajdujące się na 2 piętrze apartamentowca z 2020 roku na Pomorzanach. Na powierzchnię użytkową nieruchomości składa się: korytarz, sypialnia, łazienka oraz przestronny salon z aneksem kuchennym. Mieszkanie jest nowe, jeszcze niezamieszkałe, prezentuje zdecydowanie wysoki standard. Sypialnia wyposażona w łóżko ( będzie jeszcze szafa ). Łazienka z kabiną prysznicową. Salon z w pełni wyposażoną kuchnią ( zmywarka, piekarnik, lodówka, mikrofala ). Mieszkanie jest przestronne i bardzo dobrze nasłonecznione. Dodatkowo, z salonu mamy wyjście na balkon. Nieruchomość zlokalizowana jest na Pomorzanach. Czynsz wynosi 394,50 zł, dodatkowo należy doliczyć opłaty za prąd. Jest również możliwość wynajęcia miejsca postojowego w podziemnym parkingu za kwotę ok. 300 zł. Serdecznie zapraszam na prezentację.",
+  "District": "Pomorzany",
+  "Area": 46.9,
+  "NumberOfRooms": 2,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\02.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\03.png",
+      "RoomType": "Badroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\04.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\05.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\06.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\07.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\09.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\10.png",
+      "RoomType": "Badroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\11.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\12.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\13.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\14.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\15.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\16.png",
+      "RoomType": "Hall"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\17.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\01\\18.png",
+      "RoomType": "Unknown"
+    }
+  ]
+}

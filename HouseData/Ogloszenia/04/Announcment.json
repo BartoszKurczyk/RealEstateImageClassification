@@ -1,0 +1,56 @@
+{
+  "Description": "Do wynajęcia 2 pokojowe mieszkanie przy ul. Dunikowskiego o pow. 38m., w pełni umeblowane, znajdujące się na 4 piętrze w bloku z windą. Może zamieszkać tutaj para/małżeństwo  dzieckiem . Nie ma tez przeszkód aby mieszkało zwierzątko. Składa się z: - przedpokoju z przestronną szafą w zabudowie - oddzielnej kuchni z pełnym wyposażeniem AGD (zmywarka, piekarnik 2w1 z kuchenką mikrofalową, płyta gazowa, lodówka z zamrażarką) - łazienki z prysznicem oraz pralko-suszarką – sypialni – salonu Internet i telewizja UPC (możliwa cesja umowy lub rezygnacja) Atrakcyjna lokalizacja, w pobliżu znajduje się: Centrum handlowe Atrium Molo, IKEA, Szpital Pomorzany, Calypso Fitness, wiele sklepów spożywczych (Biedronka, Żabka, Asprod, Lidl etc.). Przystanek tramwajowy linii 11 i 12, autobusowy 53 oddalone 3 min spacerem od bloku, parking bezpośrednio pod blokiem. Cena najmu 2200 zł + kaucja Czynsz 380 zł + media wg zużycia Mieszkanie jest gotowe do zamieszkania. *****Zapewniamy bezpieczeństwo pamiętaj, że osoba z kluczami to nie musi być właściciel mieszkania. ***** ***** Zajmiemy się formalnościami, przygotujemy umowę najmu oraz protokół wydania mieszkania. Robimy dokumentacje zdjęciową oraz wideo. *****",
+  "District": "Pomorzany",
+  "Area": 38.0,
+  "NumberOfRooms": 2,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\02.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\03.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\04.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\05.png",
+      "RoomType": "Hall"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\06.png",
+      "RoomType": "Hall"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\07.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\09.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\10.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\11.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\04\\12.png",
+      "RoomType": "Livingroom"
+    }
+  ]
+}

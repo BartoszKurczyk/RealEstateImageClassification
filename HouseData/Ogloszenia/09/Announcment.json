@@ -1,0 +1,64 @@
+{
+  "Description": "Nowocześnie urządzone, umeblowane, mieszkanie do wynajęcia przy centrum handlowym Kaskada a dokładnie przy ulicy Kaszubskiej 19. Mieszkanie oddane do użytku w zeszłym roku, więc wszystko jest czyste, nowe i gotowe do zamieszkania. Powstało z adaptacji poddasza i znajduje się na 4 piętrze kamienicy bez windy. Apartament jest słoneczny. W pobliżu znajduje się wiele obiektów użyteczności publicznej takich jak: park, szpital, szkoły, banki, restauracje, galerie handlowe, Kościoły. Pomimo usytuowania w ścisłym centrum miasta ulica zachowuje swój spokojny charakter dzięki istnieniu parku Generała Andersa – miejsca spotkań i spacerów mieszkańców. Atutem tej lokalizacji jest dobre rozwinięcie sieci komunikacji miejskiej. Przyszli najemcy będą mieli do dyspozycji zarówno linie tramwajowe jak i linie autobusowe zapewniające transport do wielu innych dzielnic Szczecina. Kaucja zwrotna 2000zł płatna jednorazowo przy podpisaniu umowy najmu. Miesięczne koszty utrzymania: Czynsz najmu 1600 zł + czynsz do Wspólnoty mieszkaniowej 250 zł + prąd i gaz wg liczników. Zapraszam na prezentację ! Oferta wysłana z programu dla biur nieruchomości ASARI CRM ()",
+  "District": "Centrum",
+  "Area": 25.0,
+  "NumberOfRooms": 1,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\01.png",
+      "RoomType": "Kitchen"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\02.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\03.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\04.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\05.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\06.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\07.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\09.png",
+      "RoomType": "Badroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\10.png",
+      "RoomType": "Badroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\11.png",
+      "RoomType": "Badroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\12.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\13.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\09\\14.png",
+      "RoomType": "Bathroom"
+    }
+  ]
+}

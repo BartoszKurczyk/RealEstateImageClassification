@@ -1,0 +1,64 @@
+{
+  "Description": "Otwarte studio - kawalerka w loftowym stylu - dla miłośnika designu - z fantastycznym widokiem na zieloną część Szczecina. Wyposażona i umeblowana. Od 11/11/2021 W środku: Praktyczna garderoba, biurko do pracy, wygodna kanapa z szezlongiem, aneks kuchenny, materac do spania 160/200, komoda, ława, lodówka, kuchenka gazowa, piekarnik, czajnik, odkurzacz, żelazko. W łazience pralka, prysznic. Ogrzewanie i ciepła woda - miejskie. W pobliżu: basen Floating Arena, przystanki większości miejskich linii autobusowych i tramwajowych, sklepy, Fala, Galaxy, Oxygen, Plac Rodła, Park Kasprowicza, Park Żeromskiego ... wszędzie blisko. Bezpłatny parking tuż przy budynku i parking strzeżony. Wyłącznie umowa najmu okazjonalnego - minimum rok. Bez prowizji dla biura. Najemca opłaca koszt umowy notarialnej - ok 300 PLN. Wyłącznie dla niepalących i bez zwierząt. Pośrednikom serdecznie dziękuję. Opłaty: czynsz: 1500 PLN + opłaty dla spółdzielni 560 PLN (zaliczki na wodę i ogrzewanie) + prąd i gaz - ok 100 PLN Łącznie ok 2 160 PLN/mc Kaucja 3000 PLN Internet i TV we własnym zakresie (w budynku jest UPC). Zapraszam do kontaktu: ) (I speak English)",
+  "District": "Centrum",
+  "Area": 37.0,
+  "NumberOfRooms": 1,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\02.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\03.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\04.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\05.png",
+      "RoomType": "Unknown"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\06.png",
+      "RoomType": "Kitchen"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\07.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\08.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\09.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\10.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\11.png",
+      "RoomType": "Bathroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\12.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\13.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\07\\14.png",
+      "RoomType": "Unknown"
+    }
+  ]
+}

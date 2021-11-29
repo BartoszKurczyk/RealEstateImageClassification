@@ -1,0 +1,52 @@
+{
+  "Description": "Do wynajęcia mieszkanie jednopokojowe na ul. Krzywoustego. Mieszkanie od podwórza, ciche i wyposażone wraz ze sprzętem AGD. W bezpośrednim otoczeniu znajduje się Biedronka, Netto, szkoły, uczelnie, przystanki, itp. Budynek nowy z 2013 roku. BRAK CZYNSZU, do ceny najmu dochodzą tylko rachunki za media wg zużycia (woda, prąd, gaz). Wymagana kaucja 2400 zł. Do wynajęcia od zaraz (bez dzieci, zwierząt i dla niepalących). Zapraszam do kontaktu: tel 694 487 732.",
+  "District": "Centrum",
+  "Area": 35.0,
+  "NumberOfRooms": 1,
+  "ImageInfos": [
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\01.png",
+      "RoomType": "Livingroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\02.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\03.png",
+      "RoomType": "Livingroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\04.png",
+      "RoomType": "Bathroom"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\05.png",
+      "RoomType": "Bathroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\06.png",
+      "RoomType": "Bathroom"
+    },
+	{
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\07.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\08.png",
+      "RoomType": "Kitchen"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\09.png",
+      "RoomType": "Hall"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\10.png",
+      "RoomType": "Unknown"
+    },
+    {
+      "ImagePath": "C:\\ML.NET\\HouseData\\Ogloszenia\\08\\11.png",
+      "RoomType": "Unknown"
+    }
+  ]
+}
